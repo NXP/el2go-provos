@@ -1,0 +1,11 @@
+NXP Software Content Register
+--------------------------------------------
+
+Package:					el2go-provos
+Version:					1.0.0
+Outgoing License: 			LA_OPT_NXP_Software_License v49 - Section 2.3 applies
+License File:				LICENSE
+Type of content: 			binary, scripts
+Description and comments: 	Contains NXP-signed binary
+Origin: 					NXP(proprietary)
+Release Location:			https://github.com/NXP/el2go-provos
